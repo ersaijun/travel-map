@@ -1,0 +1,2162 @@
+[
+  {
+    "name": "万盛黑山谷-龙鳞石海景区",
+    "province": "重庆市",
+    "city": "重庆市",
+    "category": "峡谷风光"
+  },
+  {
+    "name": "三亚南山大小洞天旅游区",
+    "province": "海南省",
+    "city": "三亚市",
+    "category": "海南第一山水"
+  },
+  {
+    "name": "三亚南山文化旅游区",
+    "province": "海南省",
+    "city": "三亚市",
+    "category": "海上观音"
+  },
+  {
+    "name": "三亚蜈支洲岛旅游区",
+    "province": "海南省",
+    "city": "三亚市",
+    "category": "中国马尔代夫"
+  },
+  {
+    "name": "三明泰宁风景旅游区",
+    "province": "福建省",
+    "city": "三明市",
+    "category": "世界自然遗产"
+  },
+  {
+    "name": "上饶三清山旅游景区",
+    "province": "江西省",
+    "city": "上饶市",
+    "category": "世界自然遗产"
+  },
+  {
+    "name": "上饶婺源江湾景区",
+    "province": "江西省",
+    "city": "上饶市",
+    "category": "中国最美乡村"
+  },
+  {
+    "name": "东营黄河口生态旅游区",
+    "province": "山东省",
+    "city": "东营市",
+    "category": "黄河入海口"
+  },
+  {
+    "name": "中卫沙坡头旅游景区",
+    "province": "宁夏回族自治区",
+    "city": "中卫市",
+    "category": "腾格里沙漠"
+  },
+  {
+    "name": "中央电视台无锡影视基地三国水浒城",
+    "province": "江苏省",
+    "city": "无锡市",
+    "category": "影视拍摄基地"
+  },
+  {
+    "name": "中山孙中山故里旅游区",
+    "province": "广东省",
+    "city": "中山市",
+    "category": "孙中山故居"
+  },
+  {
+    "name": "临夏炳灵寺石窟景区",
+    "province": "甘肃省",
+    "city": "临夏州",
+    "category": "世界文化遗产"
+  },
+  {
+    "name": "临汾洪洞大槐树寻根祭祖园",
+    "province": "山西省",
+    "city": "临汾市",
+    "category": "寻根祭祖圣地"
+  },
+  {
+    "name": "临沂沂蒙山旅游区",
+    "province": "山东省",
+    "city": "临沂市",
+    "category": "沂蒙革命老区"
+  },
+  {
+    "name": "丹东鸭绿江断桥景区",
+    "province": "辽宁省",
+    "city": "丹东市",
+    "category": "抗美援朝见证"
+  },
+  {
+    "name": "丽水云和梯田景区",
+    "province": "浙江省",
+    "city": "丽水市",
+    "category": "中国最美梯田"
+  },
+  {
+    "name": "丽水缙云仙都景区",
+    "province": "浙江省",
+    "city": "丽水市",
+    "category": "仙人荟萃之都"
+  },
+  {
+    "name": "丽江古城景区",
+    "province": "云南省",
+    "city": "丽江市",
+    "category": "世界文化遗产"
+  },
+  {
+    "name": "丽江玉龙雪山景区",
+    "province": "云南省",
+    "city": "丽江市",
+    "category": "北半球最南端雪山"
+  },
+  {
+    "name": "乌鲁木齐天山大峡谷景区",
+    "province": "新疆维吾尔自治区",
+    "city": "乌鲁木齐市",
+    "category": "天山峡谷"
+  },
+  {
+    "name": "乌鲁木齐天山天池风景名胜区",
+    "province": "新疆维吾尔自治区",
+    "city": "乌鲁木齐市",
+    "category": "瑶池仙境"
+  },
+  {
+    "name": "九江庐山西海风景区",
+    "province": "江西省",
+    "city": "九江市",
+    "category": "江西千岛湖"
+  },
+  {
+    "name": "九江庐山风景区",
+    "province": "江西省",
+    "city": "九江市",
+    "category": "世界文化遗产"
+  },
+  {
+    "name": "云阳龙缸景区",
+    "province": "重庆市",
+    "city": "重庆市",
+    "category": "天下第一缸"
+  },
+  {
+    "name": "伊春汤旺河林海奇石景区",
+    "province": "黑龙江省",
+    "city": "伊春市",
+    "category": "国家公园试点"
+  },
+  {
+    "name": "伊犁喀拉峻景区",
+    "province": "新疆维吾尔自治区",
+    "city": "伊犁州",
+    "category": "世界自然遗产"
+  },
+  {
+    "name": "伊犁那拉提旅游风景区",
+    "province": "新疆维吾尔自治区",
+    "city": "伊犁州",
+    "category": "世界四大草原"
+  },
+  {
+    "name": "佛山西樵山景区",
+    "province": "广东省",
+    "city": "佛山市",
+    "category": "广东四大名山"
+  },
+  {
+    "name": "佛山长鹿旅游休博园",
+    "province": "广东省",
+    "city": "佛山市",
+    "category": "主题公园"
+  },
+  {
+    "name": "保亭呀诺达雨林文化旅游区",
+    "province": "海南省",
+    "city": "保亭县",
+    "category": "热带雨林"
+  },
+  {
+    "name": "保亭槟榔谷黎苗文化旅游区",
+    "province": "海南省",
+    "city": "保亭县",
+    "category": "黎苗文化"
+  },
+  {
+    "name": "保定安新白洋淀景区",
+    "province": "河北省",
+    "city": "保定市",
+    "category": "华北明珠"
+  },
+  {
+    "name": "保定涞水县野三坡景区",
+    "province": "河北省",
+    "city": "保定市",
+    "category": "世外桃源"
+  },
+  {
+    "name": "保定白石山景区",
+    "province": "河北省",
+    "city": "保定市",
+    "category": "北方小黄山"
+  },
+  {
+    "name": "保山和顺古镇景区",
+    "province": "云南省",
+    "city": "保山市",
+    "category": "中国第一魅力名镇"
+  },
+  {
+    "name": "信阳鸡公山风景区",
+    "province": "河南省",
+    "city": "信阳市",
+    "category": "四大避暑胜地"
+  },
+  {
+    "name": "克拉玛依魔鬼城景区",
+    "province": "新疆维吾尔自治区",
+    "city": "克拉玛依市",
+    "category": "雅丹地貌"
+  },
+  {
+    "name": "八达岭-慕田峪长城旅游区",
+    "province": "北京市",
+    "city": "北京市",
+    "category": "世界文化遗产"
+  },
+  {
+    "name": "六安天堂寨旅游景区",
+    "province": "安徽省",
+    "city": "六安市",
+    "category": "大别山第二高峰"
+  },
+  {
+    "name": "兰州黄河铁桥-白塔山风景区",
+    "province": "甘肃省",
+    "city": "兰州市",
+    "category": "黄河第一桥"
+  },
+  {
+    "name": "兴安盟阿尔山-柴河旅游景区",
+    "province": "内蒙古自治区",
+    "city": "兴安盟",
+    "category": "温泉之乡"
+  },
+  {
+    "name": "北京奥林匹克公园",
+    "province": "北京市",
+    "city": "北京市",
+    "category": "奥运遗产"
+  },
+  {
+    "name": "北京（通州）大运河文化旅游景区",
+    "province": "北京市",
+    "city": "北京市",
+    "category": "世界文化遗产"
+  },
+  {
+    "name": "北海涠洲岛南湾鳄鱼山景区",
+    "province": "广西壮族自治区",
+    "city": "北海市",
+    "category": "中国最大火山岛"
+  },
+  {
+    "name": "十堰武当山风景区",
+    "province": "湖北省",
+    "city": "十堰市",
+    "category": "世界文化遗产"
+  },
+  {
+    "name": "南京夫子庙-秦淮河风光带",
+    "province": "江苏省",
+    "city": "南京市",
+    "category": "中国四大文庙"
+  },
+  {
+    "name": "南京钟山-中山陵园景区",
+    "province": "江苏省",
+    "city": "南京市",
+    "category": "孙中山陵寝"
+  },
+  {
+    "name": "南宁青秀山旅游区",
+    "province": "广西壮族自治区",
+    "city": "南宁市",
+    "category": "南宁绿肺"
+  },
+  {
+    "name": "南川金佛山景区",
+    "province": "重庆市",
+    "city": "重庆市",
+    "category": "世界自然遗产"
+  },
+  {
+    "name": "南平武夷山风景名胜区",
+    "province": "福建省",
+    "city": "南平市",
+    "category": "世界双重遗产"
+  },
+  {
+    "name": "南昌滕王阁旅游区",
+    "province": "江西省",
+    "city": "南昌市",
+    "category": "中国四大名楼"
+  },
+  {
+    "name": "南通濠河景区",
+    "province": "江苏省",
+    "city": "南通市",
+    "category": "古护城河"
+  },
+  {
+    "name": "南阳西峡伏牛山老界岭·恐龙遗址园",
+    "province": "河南省",
+    "city": "南阳市",
+    "category": "伏牛山主峰"
+  },
+  {
+    "name": "厦门鼓浪屿风景名胜区",
+    "province": "福建省",
+    "city": "厦门市",
+    "category": "世界文化遗产"
+  },
+  {
+    "name": "台州天台山景区",
+    "province": "浙江省",
+    "city": "台州市",
+    "category": "天台宗发源地"
+  },
+  {
+    "name": "台州府城文化旅游区",
+    "province": "浙江省",
+    "city": "台州市",
+    "category": "江南长城"
+  },
+  {
+    "name": "台州神仙居景区",
+    "province": "浙江省",
+    "city": "台州市",
+    "category": "神仙居住的地方"
+  },
+  {
+    "name": "合川钓鱼城古战场遗址景区",
+    "province": "重庆市",
+    "city": "重庆市",
+    "category": "上帝折鞭处"
+  },
+  {
+    "name": "合肥三河古镇景区",
+    "province": "安徽省",
+    "city": "合肥市",
+    "category": "水乡古镇"
+  },
+  {
+    "name": "吉安井冈山风景旅游区",
+    "province": "江西省",
+    "city": "吉安市",
+    "category": "革命摇篮"
+  },
+  {
+    "name": "吉林市万科松花湖度假区",
+    "province": "吉林省",
+    "city": "吉林市",
+    "category": "滑雪胜地"
+  },
+  {
+    "name": "吐鲁番葡萄沟风景区",
+    "province": "新疆维吾尔自治区",
+    "city": "吐鲁番市",
+    "category": "葡萄之乡"
+  },
+  {
+    "name": "吕梁汾阳杏花村汾酒文化景区",
+    "province": "山西省",
+    "city": "吕梁市",
+    "category": "汾酒之乡"
+  },
+  {
+    "name": "吴忠青铜峡黄河大峡谷",
+    "province": "宁夏回族自治区",
+    "city": "吴忠市",
+    "category": "黄河峡谷"
+  },
+  {
+    "name": "呼伦贝尔满洲里市中俄边境旅游区",
+    "province": "内蒙古自治区",
+    "city": "呼伦贝尔市",
+    "category": "中俄边境"
+  },
+  {
+    "name": "呼和浩特敕勒川草原文化旅游区",
+    "province": "内蒙古自治区",
+    "city": "呼和浩特市",
+    "category": "城市草原"
+  },
+  {
+    "name": "和田昆仑山景区",
+    "province": "新疆维吾尔自治区",
+    "city": "和田地区",
+    "category": "昆仑山脉"
+  },
+  {
+    "name": "咸宁三国赤壁古战场景区",
+    "province": "湖北省",
+    "city": "咸宁市",
+    "category": "赤壁之战遗址"
+  },
+  {
+    "name": "哈密巴里坤古城景区",
+    "province": "新疆维吾尔自治区",
+    "city": "哈密市",
+    "category": "清代军事重镇"
+  },
+  {
+    "name": "哈尔滨太阳岛公园",
+    "province": "黑龙江省",
+    "city": "哈尔滨市",
+    "category": "松花江明珠"
+  },
+  {
+    "name": "唐山南湖·开滦旅游景区",
+    "province": "河北省",
+    "city": "唐山市",
+    "category": "生态修复典范"
+  },
+  {
+    "name": "唐山清东陵景区",
+    "province": "河北省",
+    "city": "唐山市",
+    "category": "世界文化遗产"
+  },
+  {
+    "name": "商丘永城芒砀山旅游景区",
+    "province": "河南省",
+    "city": "商丘市",
+    "category": "刘邦斩蛇地"
+  },
+  {
+    "name": "商洛金丝峡景区",
+    "province": "陕西省",
+    "city": "商洛市",
+    "category": "秦岭最美峡谷"
+  },
+  {
+    "name": "喀什泽普金湖杨景区",
+    "province": "新疆维吾尔自治区",
+    "city": "喀什地区",
+    "category": "万亩胡杨林"
+  },
+  {
+    "name": "喀什老城景区",
+    "province": "新疆维吾尔自治区",
+    "city": "喀什地区",
+    "category": "伊斯兰古城"
+  },
+  {
+    "name": "嘉兴乌镇古镇",
+    "province": "浙江省",
+    "city": "嘉兴市",
+    "category": "江南四大名镇"
+  },
+  {
+    "name": "嘉兴南湖旅游区",
+    "province": "浙江省",
+    "city": "嘉兴市",
+    "category": "中共诞生地"
+  },
+  {
+    "name": "嘉峪关文物景区",
+    "province": "甘肃省",
+    "city": "嘉峪关市",
+    "category": "天下第一雄关"
+  },
+  {
+    "name": "圆明园遗址公园景区",
+    "province": "北京市",
+    "city": "北京市",
+    "category": "万园之园"
+  },
+  {
+    "name": "塔城乌苏佛山国家森林公园",
+    "province": "新疆维吾尔自治区",
+    "city": "塔城地区",
+    "category": "大佛山"
+  },
+  {
+    "name": "大兴安岭漠河北极村旅游景区",
+    "province": "黑龙江省",
+    "city": "大兴安岭地区",
+    "category": "中国最北"
+  },
+  {
+    "name": "大同云冈石窟",
+    "province": "山西省",
+    "city": "大同市",
+    "category": "世界文化遗产"
+  },
+  {
+    "name": "大理崇圣寺三塔文化旅游区",
+    "province": "云南省",
+    "city": "大理州",
+    "category": "大理地标"
+  },
+  {
+    "name": "大足石刻景区",
+    "province": "重庆市",
+    "city": "重庆市",
+    "category": "世界文化遗产"
+  },
+  {
+    "name": "大连老虎滩海洋公园-老虎滩极地馆",
+    "province": "辽宁省",
+    "city": "大连市",
+    "category": "海洋主题公园"
+  },
+  {
+    "name": "大连金石滩景区",
+    "province": "辽宁省",
+    "city": "大连市",
+    "category": "凝固的动物世界"
+  },
+  {
+    "name": "天坛公园",
+    "province": "北京市",
+    "city": "北京市",
+    "category": "世界文化遗产"
+  },
+  {
+    "name": "天水麦积山景区",
+    "province": "甘肃省",
+    "city": "天水市",
+    "category": "世界文化遗产"
+  },
+  {
+    "name": "天津古文化街旅游区（津门故里）",
+    "province": "天津市",
+    "city": "天津市",
+    "category": "津门故里"
+  },
+  {
+    "name": "天津盘山风景名胜区",
+    "province": "天津市",
+    "city": "天津市",
+    "category": "京东第一山"
+  },
+  {
+    "name": "太原晋祠天龙山景区",
+    "province": "山西省",
+    "city": "太原市",
+    "category": "皇家祭祀园林"
+  },
+  {
+    "name": "威海刘公岛景区",
+    "province": "山东省",
+    "city": "威海市",
+    "category": "甲午战争遗址"
+  },
+  {
+    "name": "威海华夏城景区",
+    "province": "山东省",
+    "city": "威海市",
+    "category": "东方古典文化"
+  },
+  {
+    "name": "宁德屏南白水洋·鸳鸯溪旅游区",
+    "province": "福建省",
+    "city": "宁德市",
+    "category": "浅水广场"
+  },
+  {
+    "name": "宁波天一阁·月湖景区",
+    "province": "浙江省",
+    "city": "宁波市",
+    "category": "中国最早私家藏书楼"
+  },
+  {
+    "name": "宁波奉化溪口-滕头旅游景区",
+    "province": "浙江省",
+    "city": "宁波市",
+    "category": "蒋介石故里"
+  },
+  {
+    "name": "安庆天柱山风景区",
+    "province": "安徽省",
+    "city": "安庆市",
+    "category": "安徽三大名山"
+  },
+  {
+    "name": "安阳殷墟景区",
+    "province": "河南省",
+    "city": "安阳市",
+    "category": "世界文化遗产"
+  },
+  {
+    "name": "安顺黄果树瀑布景区",
+    "province": "贵州省",
+    "city": "安顺市",
+    "category": "亚洲最大瀑布"
+  },
+  {
+    "name": "安顺龙宫景区",
+    "province": "贵州省",
+    "city": "安顺市",
+    "category": "中国最美水溶洞"
+  },
+  {
+    "name": "宜昌三峡人家风景区",
+    "province": "湖北省",
+    "city": "宜昌市",
+    "category": "三峡风情"
+  },
+  {
+    "name": "宜昌三峡大坝-屈原故里旅游区",
+    "province": "湖北省",
+    "city": "宜昌市",
+    "category": "世界最大水利枢纽"
+  },
+  {
+    "name": "宜昌清江画廊景区",
+    "province": "湖北省",
+    "city": "宜昌市",
+    "category": "八百里清江"
+  },
+  {
+    "name": "宜春明月山旅游区",
+    "province": "江西省",
+    "city": "宜春市",
+    "category": "月亮文化"
+  },
+  {
+    "name": "宝鸡太白山旅游景区",
+    "province": "陕西省",
+    "city": "宝鸡市",
+    "category": "秦岭主峰"
+  },
+  {
+    "name": "宝鸡扶风县法门寺佛文化景区",
+    "province": "陕西省",
+    "city": "宝鸡市",
+    "category": "佛祖舍利"
+  },
+  {
+    "name": "宣城绩溪龙川景区",
+    "province": "安徽省",
+    "city": "宣城市",
+    "category": "胡姓古村落"
+  },
+  {
+    "name": "宿迁项王故里景区",
+    "province": "江苏省",
+    "city": "宿迁市",
+    "category": "项羽故里"
+  },
+  {
+    "name": "山南雅砻河风景名胜区",
+    "province": "西藏自治区",
+    "city": "山南市",
+    "category": "藏文化发源地"
+  },
+  {
+    "name": "岳阳岳阳楼-君山岛景区",
+    "province": "湖南省",
+    "city": "岳阳市",
+    "category": "中国四大名楼"
+  },
+  {
+    "name": "巫山小三峡-小小三峡",
+    "province": "重庆市",
+    "city": "重庆市",
+    "category": "三峡精华"
+  },
+  {
+    "name": "巴州和静巴音布鲁克景区",
+    "province": "新疆维吾尔自治区",
+    "city": "巴音郭楞州",
+    "category": "中国最大高山草原"
+  },
+  {
+    "name": "巴音郭楞博斯腾湖景区",
+    "province": "新疆维吾尔自治区",
+    "city": "巴音郭楞州",
+    "category": "中国最大内陆淡水湖"
+  },
+  {
+    "name": "常州天目湖景区",
+    "province": "江苏省",
+    "city": "常州市",
+    "category": "江南明珠"
+  },
+  {
+    "name": "常州环球恐龙城",
+    "province": "江苏省",
+    "city": "常州市",
+    "category": "恐龙主题公园"
+  },
+  {
+    "name": "常德桃花源旅游区",
+    "province": "湖南省",
+    "city": "常德市",
+    "category": "桃花源记原型"
+  },
+  {
+    "name": "常熟沙家浜·虞山尚湖旅游区",
+    "province": "江苏省",
+    "city": "常熟市",
+    "category": "红色经典"
+  },
+  {
+    "name": "平凉崆峒山风景名胜区",
+    "province": "甘肃省",
+    "city": "平凉市",
+    "category": "道教名山"
+  },
+  {
+    "name": "平顶山尧山-中原大佛景区",
+    "province": "河南省",
+    "city": "平顶山市",
+    "category": "世界最高佛像"
+  },
+  {
+    "name": "广州白云山风景区",
+    "province": "广东省",
+    "city": "广州市",
+    "category": "广州标志"
+  },
+  {
+    "name": "广州长隆旅游度假区",
+    "province": "广东省",
+    "city": "广州市",
+    "category": "主题乐园"
+  },
+  {
+    "name": "延安革命纪念地景区",
+    "province": "陕西省",
+    "city": "延安市",
+    "category": "革命圣地"
+  },
+  {
+    "name": "延安黄陵县黄帝陵景区",
+    "province": "陕西省",
+    "city": "延安市",
+    "category": "中华民族始祖陵"
+  },
+  {
+    "name": "延边朝鲜族自治州敦化六鼎山文化旅游区",
+    "province": "吉林省",
+    "city": "延边州",
+    "category": "金鼎大佛"
+  },
+  {
+    "name": "开封清明上河园景区",
+    "province": "河南省",
+    "city": "开封市",
+    "category": "清明上河图"
+  },
+  {
+    "name": "张家界武陵源-天门山旅游区",
+    "province": "湖南省",
+    "city": "张家界市",
+    "category": "世界自然遗产"
+  },
+  {
+    "name": "张掖七彩丹霞景区",
+    "province": "甘肃省",
+    "city": "张掖市",
+    "category": "中国最美丹霞"
+  },
+  {
+    "name": "彭水阿依河景区",
+    "province": "重庆市",
+    "city": "重庆市",
+    "category": "苗族风情"
+  },
+  {
+    "name": "徐州云龙湖景区",
+    "province": "江苏省",
+    "city": "徐州市",
+    "category": "徐州明珠"
+  },
+  {
+    "name": "忻州五台山风景名胜区",
+    "province": "山西省",
+    "city": "忻州市",
+    "category": "世界文化遗产"
+  },
+  {
+    "name": "恩施大峡谷景区",
+    "province": "湖北省",
+    "city": "恩施州",
+    "category": "东方科罗拉多"
+  },
+  {
+    "name": "恩施巴东神龙溪纤夫文化旅游区",
+    "province": "湖北省",
+    "city": "恩施州",
+    "category": "纤夫文化"
+  },
+  {
+    "name": "恭王府景区",
+    "province": "北京市",
+    "city": "北京市",
+    "category": "清代王府典范"
+  },
+  {
+    "name": "惠州罗浮山景区",
+    "province": "广东省",
+    "city": "惠州市",
+    "category": "道教名山"
+  },
+  {
+    "name": "惠州西湖风景区",
+    "province": "广东省",
+    "city": "惠州市",
+    "category": "惠州名片"
+  },
+  {
+    "name": "扬州瘦西湖景区",
+    "province": "江苏省",
+    "city": "扬州市",
+    "category": "园林之盛甲天下"
+  },
+  {
+    "name": "承德避暑山庄及周围寺庙景区",
+    "province": "河北省",
+    "city": "承德市",
+    "category": "世界文化遗产"
+  },
+  {
+    "name": "抚州大觉山景区",
+    "province": "江西省",
+    "city": "抚州市",
+    "category": "原始森林"
+  },
+  {
+    "name": "拉萨大昭寺景区",
+    "province": "西藏自治区",
+    "city": "拉萨市",
+    "category": "世界文化遗产"
+  },
+  {
+    "name": "拉萨布达拉宫景区",
+    "province": "西藏自治区",
+    "city": "拉萨市",
+    "category": "世界文化遗产"
+  },
+  {
+    "name": "故宫博物院",
+    "province": "北京市",
+    "city": "北京市",
+    "category": "世界文化遗产"
+  },
+  {
+    "name": "新乡八里沟景区",
+    "province": "河南省",
+    "city": "新乡市",
+    "category": "太行峡谷"
+  },
+  {
+    "name": "新余仙女湖风景区",
+    "province": "江西省",
+    "city": "新余市",
+    "category": "毛衣女传说"
+  },
+  {
+    "name": "无锡惠山古镇景区",
+    "province": "江苏省",
+    "city": "无锡市",
+    "category": "祠堂群"
+  },
+  {
+    "name": "无锡灵山大佛景区",
+    "province": "江苏省",
+    "city": "无锡市",
+    "category": "世界最高青铜大佛"
+  },
+  {
+    "name": "无锡鼋头渚景区",
+    "province": "江苏省",
+    "city": "无锡市",
+    "category": "太湖第一名胜"
+  },
+  {
+    "name": "日喀则扎什伦布寺景区",
+    "province": "西藏自治区",
+    "city": "日喀则市",
+    "category": "班禅驻锡地"
+  },
+  {
+    "name": "昆明世博园景区",
+    "province": "云南省",
+    "city": "昆明市",
+    "category": "世博园"
+  },
+  {
+    "name": "昆明石林风景区",
+    "province": "云南省",
+    "city": "昆明市",
+    "category": "世界自然遗产"
+  },
+  {
+    "name": "明十三陵景区",
+    "province": "北京市",
+    "city": "北京市",
+    "category": "世界文化遗产"
+  },
+  {
+    "name": "晋中绵山风景名胜区",
+    "province": "山西省",
+    "city": "晋中市",
+    "category": "清明节发源地"
+  },
+  {
+    "name": "晋城阳城皇城相府生态文化旅游区",
+    "province": "山西省",
+    "city": "晋城市",
+    "category": "中国北方第一宅"
+  },
+  {
+    "name": "景德镇古窑民俗博览区",
+    "province": "江西省",
+    "city": "景德镇市",
+    "category": "瓷都景德镇"
+  },
+  {
+    "name": "朔州应县木塔景区",
+    "province": "山西省",
+    "city": "朔州市",
+    "category": "世界最高木塔"
+  },
+  {
+    "name": "本溪水洞景区",
+    "province": "辽宁省",
+    "city": "本溪市",
+    "category": "世界最长地下充水溶洞"
+  },
+  {
+    "name": "杭州千岛湖风景区",
+    "province": "浙江省",
+    "city": "杭州市",
+    "category": "天下第一秀水"
+  },
+  {
+    "name": "杭州西湖风景区",
+    "province": "浙江省",
+    "city": "杭州市",
+    "category": "世界文化遗产"
+  },
+  {
+    "name": "杭州西溪湿地旅游区",
+    "province": "浙江省",
+    "city": "杭州市",
+    "category": "国家湿地公园"
+  },
+  {
+    "name": "林芝巴松措景区",
+    "province": "西藏自治区",
+    "city": "林芝市",
+    "category": "西藏圣湖"
+  },
+  {
+    "name": "枣庄台儿庄古城景区",
+    "province": "山东省",
+    "city": "枣庄市",
+    "category": "运河古城"
+  },
+  {
+    "name": "柳州三江程阳八寨景区",
+    "province": "广西壮族自治区",
+    "city": "柳州市",
+    "category": "侗族风情"
+  },
+  {
+    "name": "株洲炎帝陵景区",
+    "province": "湖南省",
+    "city": "株洲市",
+    "category": "炎帝陵"
+  },
+  {
+    "name": "桂林两江四湖·象山景区",
+    "province": "广西壮族自治区",
+    "city": "桂林市",
+    "category": "桂林城徽"
+  },
+  {
+    "name": "桂林兴安乐满地度假世界",
+    "province": "广西壮族自治区",
+    "city": "桂林市",
+    "category": "主题乐园"
+  },
+  {
+    "name": "桂林漓江风景区",
+    "province": "广西壮族自治区",
+    "city": "桂林市",
+    "category": "桂林山水甲天下"
+  },
+  {
+    "name": "桂林独秀峰·王城景区",
+    "province": "广西壮族自治区",
+    "city": "桂林市",
+    "category": "靖江王府"
+  },
+  {
+    "name": "梅州雁南飞茶田景区",
+    "province": "广东省",
+    "city": "梅州市",
+    "category": "茶文化主题"
+  },
+  {
+    "name": "榆林镇北台景区",
+    "province": "陕西省",
+    "city": "榆林市",
+    "category": "万里长城第一台"
+  },
+  {
+    "name": "武汉东湖景区",
+    "province": "湖北省",
+    "city": "武汉市",
+    "category": "中国最大城中湖"
+  },
+  {
+    "name": "武汉黄鹤楼公园",
+    "province": "湖北省",
+    "city": "武汉市",
+    "category": "中国四大名楼"
+  },
+  {
+    "name": "武隆喀斯特旅游区",
+    "province": "重庆市",
+    "city": "重庆市",
+    "category": "世界自然遗产"
+  },
+  {
+    "name": "毕节百里杜鹃景区",
+    "province": "贵州省",
+    "city": "毕节市",
+    "category": "世界最大天然花园"
+  },
+  {
+    "name": "汉中青木川古镇景区",
+    "province": "陕西省",
+    "city": "汉中市",
+    "category": "陕甘川交界"
+  },
+  {
+    "name": "江津四面山景区",
+    "province": "重庆市",
+    "city": "重庆市",
+    "category": "丹霞地貌"
+  },
+  {
+    "name": "池州九华山风景区",
+    "province": "安徽省",
+    "city": "池州市",
+    "category": "佛教四大名山"
+  },
+  {
+    "name": "沈阳植物园",
+    "province": "辽宁省",
+    "city": "沈阳市",
+    "category": "世博园"
+  },
+  {
+    "name": "泉州清源山景区",
+    "province": "福建省",
+    "city": "泉州市",
+    "category": "泉州标志"
+  },
+  {
+    "name": "泰安泰山景区",
+    "province": "山东省",
+    "city": "泰安市",
+    "category": "五岳之首"
+  },
+  {
+    "name": "泰州溱湖国家湿地公园",
+    "province": "江苏省",
+    "city": "泰州市",
+    "category": "国家湿地公园"
+  },
+  {
+    "name": "洛阳嵩县白云山景区",
+    "province": "河南省",
+    "city": "洛阳市",
+    "category": "中原名山"
+  },
+  {
+    "name": "洛阳老君山-鸡冠洞旅游区",
+    "province": "河南省",
+    "city": "洛阳市",
+    "category": "道教圣地"
+  },
+  {
+    "name": "洛阳龙门石窟景区",
+    "province": "河南省",
+    "city": "洛阳市",
+    "category": "世界文化遗产"
+  },
+  {
+    "name": "济南天下第一泉景区",
+    "province": "山东省",
+    "city": "济南市",
+    "category": "天下第一泉"
+  },
+  {
+    "name": "济宁曲阜明故城（三孔）旅游区",
+    "province": "山东省",
+    "city": "济宁市",
+    "category": "世界文化遗产"
+  },
+  {
+    "name": "海东互助土族故土园",
+    "province": "青海省",
+    "city": "海东市",
+    "category": "土族风情"
+  },
+  {
+    "name": "海北州阿咪东索景区",
+    "province": "青海省",
+    "city": "海北州",
+    "category": "祁连山象征"
+  },
+  {
+    "name": "淄博周村古商城景区",
+    "province": "山东省",
+    "city": "淄博市",
+    "category": "天下第一村"
+  },
+  {
+    "name": "淮安周恩来故里旅游景区",
+    "province": "江苏省",
+    "city": "淮安市",
+    "category": "周恩来故居"
+  },
+  {
+    "name": "深圳华侨城旅游度假区",
+    "province": "广东省",
+    "city": "深圳市",
+    "category": "主题乐园"
+  },
+  {
+    "name": "深圳观澜湖休闲旅游区",
+    "province": "广东省",
+    "city": "深圳市",
+    "category": "世界第一大高尔夫球会"
+  },
+  {
+    "name": "清远连州地下河景区",
+    "province": "广东省",
+    "city": "清远市",
+    "category": "地下河溶洞"
+  },
+  {
+    "name": "温州刘伯温故里景区",
+    "province": "浙江省",
+    "city": "温州市",
+    "category": "刘伯温故里"
+  },
+  {
+    "name": "温州雁荡山风景区",
+    "province": "浙江省",
+    "city": "温州市",
+    "category": "东南第一山"
+  },
+  {
+    "name": "渭南华阴市华山景区",
+    "province": "陕西省",
+    "city": "渭南市",
+    "category": "五岳之一"
+  },
+  {
+    "name": "湖州南浔古镇景区",
+    "province": "浙江省",
+    "city": "湖州市",
+    "category": "江南六大古镇"
+  },
+  {
+    "name": "湘潭韶山旅游区",
+    "province": "湖南省",
+    "city": "湘潭市",
+    "category": "毛泽东故乡"
+  },
+  {
+    "name": "湟中塔尔寺景区",
+    "province": "青海省",
+    "city": "西宁市",
+    "category": "格鲁派六大寺院"
+  },
+  {
+    "name": "漳州东山岛风动石景区",
+    "province": "福建省",
+    "city": "漳州市",
+    "category": "风动奇石"
+  },
+  {
+    "name": "潍坊青州古城旅游区",
+    "province": "山东省",
+    "city": "潍坊市",
+    "category": "古九州之一"
+  },
+  {
+    "name": "灵武水洞沟旅游区",
+    "province": "宁夏回族自治区",
+    "city": "银川市",
+    "category": "旧石器时代遗址"
+  },
+  {
+    "name": "烟台蓬莱阁-三仙山·八仙过海景区",
+    "province": "山东省",
+    "city": "烟台市",
+    "category": "人间仙境"
+  },
+  {
+    "name": "烟台龙口南山景区",
+    "province": "山东省",
+    "city": "烟台市",
+    "category": "南山大佛"
+  },
+  {
+    "name": "焦作云台山-神农山-青天河风景区",
+    "province": "河南省",
+    "city": "焦作市",
+    "category": "世界地质公园"
+  },
+  {
+    "name": "牡丹江镜泊湖景区",
+    "province": "黑龙江省",
+    "city": "牡丹江市",
+    "category": "高山堰塞湖"
+  },
+  {
+    "name": "百色起义纪念园景区",
+    "province": "广西壮族自治区",
+    "city": "百色市",
+    "category": "百色起义"
+  },
+  {
+    "name": "皖南古村落-西递宏村",
+    "province": "安徽省",
+    "city": "黄山市",
+    "category": "世界文化遗产"
+  },
+  {
+    "name": "盐城大丰中华麋鹿园景区",
+    "province": "江苏省",
+    "city": "盐城市",
+    "category": "世界最大麋鹿保护区"
+  },
+  {
+    "name": "盘锦红海滩风景廊道",
+    "province": "辽宁省",
+    "city": "盘锦市",
+    "category": "世界红色海岸线"
+  },
+  {
+    "name": "石嘴山沙湖旅游景区",
+    "province": "宁夏回族自治区",
+    "city": "石嘴山市",
+    "category": "沙漠湖泊"
+  },
+  {
+    "name": "石家庄平山县西柏坡景区",
+    "province": "河北省",
+    "city": "石家庄市",
+    "category": "革命圣地"
+  },
+  {
+    "name": "神农架生态旅游区",
+    "province": "湖北省",
+    "city": "神农架林区",
+    "category": "世界自然遗产"
+  },
+  {
+    "name": "福州三坊七巷历史文化街区",
+    "province": "福建省",
+    "city": "福州市",
+    "category": "明清建筑博物馆"
+  },
+  {
+    "name": "福建土楼（永定·南靖）旅游景区",
+    "province": "福建省",
+    "city": "龙岩市",
+    "category": "世界文化遗产"
+  },
+  {
+    "name": "秦皇岛北戴河景区",
+    "province": "河北省",
+    "city": "秦皇岛市",
+    "category": "避暑胜地"
+  },
+  {
+    "name": "秦皇岛山海关景区",
+    "province": "河北省",
+    "city": "秦皇岛市",
+    "category": "天下第一关"
+  },
+  {
+    "name": "绍兴鲁迅故里-沈园景区",
+    "province": "浙江省",
+    "city": "绍兴市",
+    "category": "鲁迅故居"
+  },
+  {
+    "name": "腾冲火山热海旅游区",
+    "province": "云南省",
+    "city": "保山市",
+    "category": "火山地热"
+  },
+  {
+    "name": "舟山嵊泗列岛景区",
+    "province": "浙江省",
+    "city": "舟山市",
+    "category": "海岛度假"
+  },
+  {
+    "name": "舟山普陀山风景区",
+    "province": "浙江省",
+    "city": "舟山市",
+    "category": "海天佛国"
+  },
+  {
+    "name": "芜湖方特旅游区",
+    "province": "安徽省",
+    "city": "芜湖市",
+    "category": "主题公园"
+  },
+  {
+    "name": "苏州同里古镇景区",
+    "province": "江苏省",
+    "city": "苏州市",
+    "category": "江南六大古镇"
+  },
+  {
+    "name": "苏州吴中太湖旅游区",
+    "province": "江苏省",
+    "city": "苏州市",
+    "category": "太湖风光"
+  },
+  {
+    "name": "苏州周庄古镇景区",
+    "province": "江苏省",
+    "city": "苏州市",
+    "category": "中国第一水乡"
+  },
+  {
+    "name": "苏州园林（拙政园、虎丘、留园）",
+    "province": "江苏省",
+    "city": "苏州市",
+    "category": "世界文化遗产"
+  },
+  {
+    "name": "苏州金鸡湖景区",
+    "province": "江苏省",
+    "city": "苏州市",
+    "category": "城市湖泊公园"
+  },
+  {
+    "name": "荆州古城历史文化旅游区",
+    "province": "湖北省",
+    "city": "荆州市",
+    "category": "保存完好的古城墙"
+  },
+  {
+    "name": "荆门明显陵文化旅游区",
+    "province": "湖北省",
+    "city": "荆门市",
+    "category": "世界文化遗产"
+  },
+  {
+    "name": "莆田湄洲岛妈祖文化旅游区",
+    "province": "福建省",
+    "city": "莆田市",
+    "category": "妈祖故乡"
+  },
+  {
+    "name": "萍乡武功山风景区",
+    "province": "江西省",
+    "city": "萍乡市",
+    "category": "高山草甸"
+  },
+  {
+    "name": "衡水湖旅游景区",
+    "province": "河北省",
+    "city": "衡水市",
+    "category": "华北之肾"
+  },
+  {
+    "name": "衡阳南岳衡山旅游区",
+    "province": "湖南省",
+    "city": "衡阳市",
+    "category": "五岳之一"
+  },
+  {
+    "name": "衢州江郎山-廿八都旅游区",
+    "province": "浙江省",
+    "city": "衢州市",
+    "category": "世界自然遗产"
+  },
+  {
+    "name": "襄阳古隆中景区",
+    "province": "湖北省",
+    "city": "襄阳市",
+    "category": "三顾茅庐"
+  },
+  {
+    "name": "西双版纳热带植物园",
+    "province": "云南省",
+    "city": "西双版纳州",
+    "category": "中国最大热带植物园"
+  },
+  {
+    "name": "西安华清池景区",
+    "province": "陕西省",
+    "city": "西安市",
+    "category": "唐代温泉行宫"
+  },
+  {
+    "name": "西安城墙-碑林历史文化景区",
+    "province": "陕西省",
+    "city": "西安市",
+    "category": "中国最完整城墙"
+  },
+  {
+    "name": "西安大雁塔-大唐芙蓉园景区",
+    "province": "陕西省",
+    "city": "西安市",
+    "category": "玄奘译经地"
+  },
+  {
+    "name": "西安秦始皇兵马俑博物馆",
+    "province": "陕西省",
+    "city": "西安市",
+    "category": "世界文化遗产"
+  },
+  {
+    "name": "许昌鄢陵国家花木博览园",
+    "province": "河南省",
+    "city": "许昌市",
+    "category": "花木之乡"
+  },
+  {
+    "name": "贵阳花溪青岩古镇景区",
+    "province": "贵州省",
+    "city": "贵阳市",
+    "category": "贵州四大古镇"
+  },
+  {
+    "name": "贺州黄姚古镇景区",
+    "province": "广西壮族自治区",
+    "city": "贺州市",
+    "category": "梦境家园"
+  },
+  {
+    "name": "赣州瑞金共和国摇篮景区",
+    "province": "江西省",
+    "city": "赣州市",
+    "category": "共和国摇篮"
+  },
+  {
+    "name": "赤峰克什克腾石阵景区",
+    "province": "内蒙古自治区",
+    "city": "赤峰市",
+    "category": "冰川遗迹"
+  },
+  {
+    "name": "运城盐湖景区",
+    "province": "山西省",
+    "city": "运城市",
+    "category": "中国死海"
+  },
+  {
+    "name": "连云港花果山景区",
+    "province": "江苏省",
+    "city": "连云港市",
+    "category": "西游记故乡"
+  },
+  {
+    "name": "迪庆香格里拉普达措景区",
+    "province": "云南省",
+    "city": "迪庆州",
+    "category": "中国第一个国家公园"
+  },
+  {
+    "name": "通化高句丽文物古迹景区",
+    "province": "吉林省",
+    "city": "通化市",
+    "category": "世界文化遗产"
+  },
+  {
+    "name": "遵义赤水丹霞旅游区",
+    "province": "贵州省",
+    "city": "遵义市",
+    "category": "世界自然遗产"
+  },
+  {
+    "name": "邯郸娲皇宫景区",
+    "province": "河北省",
+    "city": "邯郸市",
+    "category": "女娲文化圣地"
+  },
+  {
+    "name": "邯郸广府古城景区",
+    "province": "河北省",
+    "city": "邯郸市",
+    "category": "北国江南"
+  },
+  {
+    "name": "邵阳崀山景区",
+    "province": "湖南省",
+    "city": "邵阳市",
+    "category": "世界自然遗产"
+  },
+  {
+    "name": "郑州登封嵩山少林景区",
+    "province": "河南省",
+    "city": "郑州市",
+    "category": "世界文化遗产"
+  },
+  {
+    "name": "郴州东江湖旅游区",
+    "province": "湖南省",
+    "city": "郴州市",
+    "category": "雾漫小东江"
+  },
+  {
+    "name": "鄂尔多斯伊金霍洛旗成吉思汗陵旅游区",
+    "province": "内蒙古自治区",
+    "city": "鄂尔多斯市",
+    "category": "一代天骄陵寝"
+  },
+  {
+    "name": "鄂尔多斯达拉特旗响沙湾旅游景区",
+    "province": "内蒙古自治区",
+    "city": "鄂尔多斯市",
+    "category": "会唱歌的沙子"
+  },
+  {
+    "name": "酉阳桃花源景区",
+    "province": "重庆市",
+    "city": "重庆市",
+    "category": "桃花源记原型"
+  },
+  {
+    "name": "酒泉敦煌鸣沙山月牙泉景区",
+    "province": "甘肃省",
+    "city": "酒泉市",
+    "category": "沙漠奇观"
+  },
+  {
+    "name": "金华东阳横店影视城",
+    "province": "浙江省",
+    "city": "金华市",
+    "category": "中国好莱坞"
+  },
+  {
+    "name": "金华永康方岩景区",
+    "province": "浙江省",
+    "city": "金华市",
+    "category": "浙东名山"
+  },
+  {
+    "name": "铜仁梵净山旅游区",
+    "province": "贵州省",
+    "city": "铜仁市",
+    "category": "世界自然遗产"
+  },
+  {
+    "name": "铜陵大通古镇景区",
+    "province": "安徽省",
+    "city": "铜陵市",
+    "category": "千年古镇"
+  },
+  {
+    "name": "银川镇北堡西部影视城",
+    "province": "宁夏回族自治区",
+    "city": "银川市",
+    "category": "影视拍摄基地"
+  },
+  {
+    "name": "镇江三山（金山、焦山、北固山）",
+    "province": "江苏省",
+    "city": "镇江市",
+    "category": "江河交汇"
+  },
+  {
+    "name": "镇江句容茅山景区",
+    "province": "江苏省",
+    "city": "镇江市",
+    "category": "道教名山"
+  },
+  {
+    "name": "长春伪满皇宫博物院",
+    "province": "吉林省",
+    "city": "长春市",
+    "category": "伪满洲国皇宫"
+  },
+  {
+    "name": "长春净月潭景区",
+    "province": "吉林省",
+    "city": "长春市",
+    "category": "亚洲最大人工森林"
+  },
+  {
+    "name": "长春长影世纪城",
+    "province": "吉林省",
+    "city": "长春市",
+    "category": "东方好莱坞"
+  },
+  {
+    "name": "长沙岳麓山-橘子洲旅游区",
+    "province": "湖南省",
+    "city": "长沙市",
+    "category": "岳麓书院"
+  },
+  {
+    "name": "长沙花明楼景区",
+    "province": "湖南省",
+    "city": "长沙市",
+    "category": "刘少奇故乡"
+  },
+  {
+    "name": "长治壶关太行山大峡谷",
+    "province": "山西省",
+    "city": "长治市",
+    "category": "太行山之魂"
+  },
+  {
+    "name": "长白山景区",
+    "province": "吉林省",
+    "city": "延边州",
+    "category": "天池"
+  },
+  {
+    "name": "阜阳八里河风景区",
+    "province": "安徽省",
+    "city": "阜阳市",
+    "category": "皖北明珠"
+  },
+  {
+    "name": "阳江海陵岛大角湾海上丝路旅游区",
+    "province": "广东省",
+    "city": "阳江市",
+    "category": "广东第四大岛"
+  },
+  {
+    "name": "阿克苏天山神木园景区",
+    "province": "新疆维吾尔自治区",
+    "city": "阿克苏地区",
+    "category": "千年古树"
+  },
+  {
+    "name": "阿勒泰五彩滩景区",
+    "province": "新疆维吾尔自治区",
+    "city": "阿勒泰地区",
+    "category": "雅丹地貌"
+  },
+  {
+    "name": "阿勒泰喀纳斯景区",
+    "province": "新疆维吾尔自治区",
+    "city": "阿勒泰地区",
+    "category": "神的后花园"
+  },
+  {
+    "name": "阿勒泰富蕴可可托海景区",
+    "province": "新疆维吾尔自治区",
+    "city": "阿勒泰地区",
+    "category": "花岗岩地貌"
+  },
+  {
+    "name": "阿拉善盟胡杨林旅游区",
+    "province": "内蒙古自治区",
+    "city": "阿拉善盟",
+    "category": "世界三大胡杨林之一"
+  },
+  {
+    "name": "陵水分界洲岛旅游区",
+    "province": "海南省",
+    "city": "陵水县",
+    "category": "潜水胜地"
+  },
+  {
+    "name": "青岛崂山风景区",
+    "province": "山东省",
+    "city": "青岛市",
+    "category": "海上第一名山"
+  },
+  {
+    "name": "青海湖景区",
+    "province": "青海省",
+    "city": "海南州",
+    "category": "中国最大内陆湖"
+  },
+  {
+    "name": "鞍山千山景区",
+    "province": "辽宁省",
+    "city": "鞍山市",
+    "category": "东北明珠"
+  },
+  {
+    "name": "韶关丹霞山景区",
+    "province": "广东省",
+    "city": "韶关市",
+    "category": "世界自然遗产"
+  },
+  {
+    "name": "颐和园",
+    "province": "北京市",
+    "city": "北京市",
+    "category": "世界文化遗产"
+  },
+  {
+    "name": "马鞍山采石矶文化生态旅游区",
+    "province": "安徽省",
+    "city": "马鞍山市",
+    "category": "长江三大名矶"
+  },
+  {
+    "name": "驻马店嵖岈山旅游景区",
+    "province": "河南省",
+    "city": "驻马店市",
+    "category": "西游记取景地"
+  },
+  {
+    "name": "鸡西虎头旅游景区",
+    "province": "黑龙江省",
+    "city": "鸡西市",
+    "category": "二战终结地"
+  },
+  {
+    "name": "鹰潭龙虎山风景名胜区",
+    "province": "江西省",
+    "city": "鹰潭市",
+    "category": "世界自然遗产"
+  },
+  {
+    "name": "黄山风景区",
+    "province": "安徽省",
+    "city": "黄山市",
+    "category": "世界文化与自然遗产"
+  },
+  {
+    "name": "黑河五大连池景区",
+    "province": "黑龙江省",
+    "city": "黑河市",
+    "category": "世界地质公园"
+  },
+  {
+    "name": "黔东南州镇远古城旅游景区",
+    "province": "贵州省",
+    "city": "黔东南州",
+    "category": "中国历史文化名城"
+  },
+  {
+    "name": "黔南州荔波樟江景区",
+    "province": "贵州省",
+    "city": "黔南州",
+    "category": "世界自然遗产"
+  },
+  {
+    "name": "龙岩古田旅游区",
+    "province": "福建省",
+    "city": "龙岩市",
+    "category": "革命圣地"
+  },
+  {
+    "name": "圆明园遗址公园景区",
+    "province": "北京市",
+    "city": "北京市",
+    "category": "万园之园"
+  },
+  {
+    "name": "保定市清西陵景区",
+    "province": "河北省",
+    "city": "保定市",
+    "category": "世界文化遗产"
+  },
+  {
+    "name": "承德市金山岭长城景区",
+    "province": "河北省",
+    "city": "承德市",
+    "category": "万里长城精华"
+  },
+  {
+    "name": "晋中市平遥古城景区",
+    "province": "山西省",
+    "city": "晋中市",
+    "category": "世界文化遗产"
+  },
+  {
+    "name": "忻州市雁门关景区",
+    "province": "山西省",
+    "city": "忻州市",
+    "category": "中华第一关"
+  },
+  {
+    "name": "临汾市云丘山景区",
+    "province": "山西省",
+    "city": "临汾市",
+    "category": "华夏农耕文明发源地"
+  },
+  {
+    "name": "黄河壶口瀑布旅游区",
+    "province": "山西省",
+    "city": "临汾市",
+    "category": "世界最大黄色瀑布"
+  },
+  {
+    "name": "晋中市乔家大院景区",
+    "province": "山西省",
+    "city": "晋中市",
+    "category": "北方民居典范"
+  },
+  {
+    "name": "赤峰市阿斯哈图石林景区",
+    "province": "内蒙古自治区",
+    "city": "赤峰市",
+    "category": "冰川遗迹"
+  },
+  {
+    "name": "呼伦贝尔市呼伦贝尔大草原·莫尔格勒河景区",
+    "province": "内蒙古自治区",
+    "city": "呼伦贝尔市",
+    "category": "天下第一曲水"
+  },
+  {
+    "name": "呼和浩特市老牛湾黄河大峡谷旅游区",
+    "province": "内蒙古自治区",
+    "city": "呼和浩特市",
+    "category": "黄河长城交汇"
+  },
+  {
+    "name": "本溪市五女山景区",
+    "province": "辽宁省",
+    "city": "本溪市",
+    "category": "世界文化遗产"
+  },
+  {
+    "name": "长春市世界雕塑公园景区",
+    "province": "吉林省",
+    "city": "长春市",
+    "category": "亚洲最大雕塑公园"
+  },
+  {
+    "name": "松原市前郭查干湖景区",
+    "province": "吉林省",
+    "city": "松原市",
+    "category": "吉林最大内陆湖"
+  },
+  {
+    "name": "白城市大安嫩江湾旅游区",
+    "province": "吉林省",
+    "city": "白城市",
+    "category": "嫩江明珠"
+  },
+  {
+    "name": "齐齐哈尔市扎龙生态旅游区",
+    "province": "黑龙江省",
+    "city": "齐齐哈尔市",
+    "category": "世界最大鹤类栖息地"
+  },
+  {
+    "name": "常州市春秋淹城旅游区",
+    "province": "江苏省",
+    "city": "常州市",
+    "category": "春秋古城遗址"
+  },
+  {
+    "name": "宿迁市洪泽湖湿地景区",
+    "province": "江苏省",
+    "city": "宿迁市",
+    "category": "湿地生态"
+  },
+  {
+    "name": "连云港市连岛景区",
+    "province": "江苏省",
+    "city": "连云港市",
+    "category": "江苏最大海岛"
+  },
+  {
+    "name": "衢州市根宫佛国文化旅游区",
+    "province": "浙江省",
+    "city": "衢州市",
+    "category": "根雕艺术之乡"
+  },
+  {
+    "name": "嘉兴市西塘古镇旅游景区",
+    "province": "浙江省",
+    "city": "嘉兴市",
+    "category": "江南水乡"
+  },
+  {
+    "name": "金华市双龙风景旅游区",
+    "province": "浙江省",
+    "city": "金华市",
+    "category": "喀斯特溶洞"
+  },
+  {
+    "name": "黄山市古徽州文化旅游区",
+    "province": "安徽省",
+    "city": "黄山市",
+    "category": "徽文化发源地"
+  },
+  {
+    "name": "六安市万佛湖风景区",
+    "province": "安徽省",
+    "city": "六安市",
+    "category": "人工湖泊"
+  },
+  {
+    "name": "宁德市太姥山旅游区",
+    "province": "福建省",
+    "city": "宁德市",
+    "category": "海上仙都"
+  },
+  {
+    "name": "厦门市厦门园林植物园景区",
+    "province": "福建省",
+    "city": "厦门市",
+    "category": "福建省最大植物园"
+  },
+  {
+    "name": "龙岩市冠豸山景区",
+    "province": "福建省",
+    "city": "龙岩市",
+    "category": "北夷南豸"
+  },
+  {
+    "name": "赣州市三百山景区",
+    "province": "江西省",
+    "city": "赣州市",
+    "category": "东江源头"
+  },
+  {
+    "name": "上饶市篁岭景区",
+    "province": "江西省",
+    "city": "上饶市",
+    "category": "晒秋文化"
+  },
+  {
+    "name": "临沂市萤火虫水洞·地下大峡谷旅游区",
+    "province": "山东省",
+    "city": "临沂市",
+    "category": "萤火虫奇观"
+  },
+  {
+    "name": "青岛市奥帆海洋文化旅游区",
+    "province": "山东省",
+    "city": "青岛市",
+    "category": "奥运帆船赛场"
+  },
+  {
+    "name": "洛阳市龙潭大峡谷景区",
+    "province": "河南省",
+    "city": "洛阳市",
+    "category": "红岩嶂谷"
+  },
+  {
+    "name": "安阳市红旗渠－太行大峡谷旅游景区",
+    "province": "河南省",
+    "city": "安阳市",
+    "category": "人工天河"
+  },
+  {
+    "name": "周口市太昊伏羲陵文化旅游区",
+    "province": "河南省",
+    "city": "周口市",
+    "category": "人文始祖陵寝"
+  },
+  {
+    "name": "新乡市宝泉旅游区",
+    "province": "河南省",
+    "city": "新乡市",
+    "category": "山水风光"
+  },
+  {
+    "name": "恩施州神农溪纤夫文化旅游区",
+    "province": "湖北省",
+    "city": "恩施州",
+    "category": "纤夫文化"
+  },
+  {
+    "name": "武汉市木兰文化生态旅游区",
+    "province": "湖北省",
+    "city": "武汉市",
+    "category": "木兰文化"
+  },
+  {
+    "name": "恩施州腾龙洞景区",
+    "province": "湖北省",
+    "city": "恩施州",
+    "category": "中国最大溶洞"
+  },
+  {
+    "name": "宜昌市三峡大瀑布景区",
+    "province": "湖北省",
+    "city": "宜昌市",
+    "category": "长江三峡瀑布"
+  },
+  {
+    "name": "黄冈市麻城龟峰山景区",
+    "province": "湖北省",
+    "city": "黄冈市",
+    "category": "中国杜鹃花第一山"
+  },
+  {
+    "name": "湘西州吉首市矮寨·十八洞·德夯大峡谷景区",
+    "province": "湖南省",
+    "city": "湘西州",
+    "category": "矮寨大桥"
+  },
+  {
+    "name": "河源市万绿湖风景区",
+    "province": "广东省",
+    "city": "河源市",
+    "category": "华南最大人工湖"
+  },
+  {
+    "name": "崇左市德天跨国瀑布景区",
+    "province": "广西壮族自治区",
+    "city": "崇左市",
+    "category": "亚洲最大跨国瀑布"
+  },
+  {
+    "name": "崇左市花山岩画景区",
+    "province": "广西壮族自治区",
+    "city": "崇左市",
+    "category": "世界文化遗产"
+  },
+  {
+    "name": "三亚市天涯海角游览区",
+    "province": "海南省",
+    "city": "三亚市",
+    "category": "爱情圣地"
+  },
+  {
+    "name": "白帝城·瞿塘峡景区",
+    "province": "重庆市",
+    "city": "重庆市",
+    "category": "长江三峡"
+  },
+  {
+    "name": "成都市安仁古镇景区",
+    "province": "四川省",
+    "city": "成都市",
+    "category": "博物馆小镇"
+  },
+  {
+    "name": "成都市天台山景区",
+    "province": "四川省",
+    "city": "成都市",
+    "category": "佛教圣地"
+  },
+  {
+    "name": "毕节市织金洞景区",
+    "province": "贵州省",
+    "city": "毕节市",
+    "category": "中国最美洞穴"
+  },
+  {
+    "name": "黔西南州万峰林景区",
+    "province": "贵州省",
+    "city": "黔西南州",
+    "category": "喀斯特峰林"
+  },
+  {
+    "name": "文山州普者黑旅游景区",
+    "province": "云南省",
+    "city": "文山州",
+    "category": "喀斯特湖泊"
+  },
+  {
+    "name": "林芝市雅鲁藏布大峡谷景区",
+    "province": "西藏自治区",
+    "city": "林芝市",
+    "category": "世界第一大峡谷"
+  },
+  {
+    "name": "西安市华清宫景区",
+    "province": "陕西省",
+    "city": "西安市",
+    "category": "唐代离宫"
+  },
+  {
+    "name": "西安市大明宫旅游景区",
+    "province": "陕西省",
+    "city": "西安市",
+    "category": "唐代宫殿"
+  },
+  {
+    "name": "延安市延川黄河乾坤湾景区",
+    "province": "陕西省",
+    "city": "延安市",
+    "category": "黄河蛇曲"
+  },
+  {
+    "name": "咸阳市乾陵景区",
+    "province": "陕西省",
+    "city": "咸阳市",
+    "category": "唐代皇陵"
+  },
+  {
+    "name": "陇南市官鹅沟景区",
+    "province": "甘肃省",
+    "city": "陇南市",
+    "category": "小九寨沟"
+  },
+  {
+    "name": "甘南州冶力关旅游区",
+    "province": "甘肃省",
+    "city": "甘南州",
+    "category": "冶海天池"
+  },
+  {
+    "name": "固原市六盘山红军长征旅游区",
+    "province": "宁夏回族自治区",
+    "city": "固原市",
+    "category": "红军长征"
+  },
+  {
+    "name": "喀什地区喀什古城景区",
+    "province": "新疆维吾尔自治区",
+    "city": "喀什地区",
+    "category": "西域古城"
+  },
+  {
+    "name": "喀什地区帕米尔旅游区",
+    "province": "新疆维吾尔自治区",
+    "city": "喀什地区",
+    "category": "帕米尔高原"
+  },
+  {
+    "name": "博尔塔拉蒙古自治州赛里木湖景区",
+    "province": "新疆维吾尔自治区",
+    "city": "博尔塔拉州",
+    "category": "高山湖泊"
+  },
+  {
+    "name": "昌吉回族自治州江布拉克景区",
+    "province": "新疆维吾尔自治区",
+    "city": "昌吉州",
+    "category": "山地草原"
+  },
+  {
+    "name": "阿克苏地区天山托木尔景区",
+    "province": "新疆维吾尔自治区",
+    "city": "阿克苏地区",
+    "category": "天山山脉"
+  },
+  {
+    "name": "兵团十师185团白沙湖景区",
+    "province": "新疆维吾尔自治区",
+    "city": "阿勒泰地区",
+    "category": "沙漠湖泊"
+  },
+  {
+    "name": "兵团阿拉尔市塔克拉玛干·三五九旅文化旅游区",
+    "province": "新疆维吾尔自治区",
+    "city": "阿拉尔市",
+    "category": "军垦文化"
+  }
+]

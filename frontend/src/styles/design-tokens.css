@@ -1,0 +1,297 @@
+/* ============================================
+   设计令牌系统
+   品牌审美：现代自然主义
+   ============================================ */
+
+:root {
+  /* ============================================
+     品牌色彩系统
+     现代自然主义色调 - 将自然元素与科技感结合
+     ============================================ */
+  
+  /* 主品牌色 - 天空蓝与海洋蓝的渐变 */
+  --color-brand-primary: #0EA5E9;
+  --color-brand-primary-light: #38BDF8;
+  --color-brand-primary-dark: #0284C7;
+  --gradient-brand: linear-gradient(135deg, #0EA5E9 0%, #6366F1 100%);
+  --gradient-brand-subtle: linear-gradient(135deg, #38BDF8 0%, #818CF8 100%);
+  
+  /* 辅助色 - 自然绿，象征生态与活力 */
+  --color-brand-secondary: #10B981;
+  --color-brand-secondary-light: #34D399;
+  --color-brand-secondary-dark: #059669;
+  --gradient-nature: linear-gradient(135deg, #10B981 0%, #34D399 100%);
+  
+  /* 强调色 - 温暖橙，象征探索与发现 */
+  --color-brand-accent: #F59E0B;
+  --color-brand-accent-light: #FBBF24;
+  --color-brand-accent-dark: #D97706;
+  --gradient-warm: linear-gradient(135deg, #F59E0B 0%, #F97316 100%);
+  
+  /* ============================================
+     语义化色彩
+     ============================================ */
+  --color-success: #10B981;
+  --color-success-light: #D1FAE5;
+  --color-warning: #F59E0B;
+  --color-warning-light: #FEF3C7;
+  --color-error: #EF4444;
+  --color-error-light: #FEE2E2;
+  --color-info: #3B82F6;
+  --color-info-light: #DBEAFE;
+  
+  /* ============================================
+     中性色系统
+     基于HSL色彩空间，确保层次清晰
+     ============================================ */
+  --color-gray-50: #FAFAFA;
+  --color-gray-100: #F5F5F5;
+  --color-gray-200: #E5E7EB;
+  --color-gray-300: #D1D5DB;
+  --color-gray-400: #9CA3AF;
+  --color-gray-500: #6B7280;
+  --color-gray-600: #4B5563;
+  --color-gray-700: #374151;
+  --color-gray-800: #1F2937;
+  --color-gray-900: #111827;
+  
+  /* 文字色彩 */
+  --color-text-primary: #111827;
+  --color-text-secondary: #4B5563;
+  --color-text-tertiary: #9CA3AF;
+  --color-text-disabled: #D1D5DB;
+  --color-text-inverse: #FFFFFF;
+  
+  /* ============================================
+     背景色系统
+     ============================================ */
+  --color-bg-page: #F8FAFC;
+  --color-bg-container: #FFFFFF;
+  --color-bg-elevated: #FFFFFF;
+  --color-bg-surface: #F1F5F9;
+  --color-bg-overlay: rgba(0, 0, 0, 0.5);
+  
+  /* ============================================
+     间距系统
+     基于8px网格系统
+     ============================================ */
+  --spacing-0: 0;
+  --spacing-1: 4px;
+  --spacing-2: 8px;
+  --spacing-3: 12px;
+  --spacing-4: 16px;
+  --spacing-5: 20px;
+  --spacing-6: 24px;
+  --spacing-8: 32px;
+  --spacing-10: 40px;
+  --spacing-12: 48px;
+  --spacing-16: 64px;
+  --spacing-20: 80px;
+  
+  /* ============================================
+     圆角系统
+     ============================================ */
+  --radius-none: 0;
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 12px;
+  --radius-xl: 16px;
+  --radius-2xl: 24px;
+  --radius-full: 9999px;
+  
+  /* ============================================
+     阴影系统
+     使用分层阴影创造深度感
+     ============================================ */
+  --shadow-xs: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+  --shadow-sm: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px -1px rgba(0, 0, 0, 0.1);
+  --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -2px rgba(0, 0, 0, 0.1);
+  --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -4px rgba(0, 0, 0, 0.1);
+  --shadow-xl: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
+  --shadow-2xl: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+  
+  /* 品牌阴影 */
+  --shadow-brand: 0 4px 14px 0 rgba(14, 165, 233, 0.39);
+  --shadow-brand-hover: 0 6px 20px 0 rgba(14, 165, 233, 0.23);
+  
+  /* ============================================
+     字体系统
+     ============================================ */
+  --font-family-display: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+  --font-family-body: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+  --font-family-mono: 'SF Mono', Monaco, 'Cascadia Code', 'Roboto Mono', Consolas, 'Courier New', monospace;
+  
+  /* 字体大小 */
+  --font-size-xs: 12px;
+  --font-size-sm: 14px;
+  --font-size-base: 16px;
+  --font-size-lg: 18px;
+  --font-size-xl: 20px;
+  --font-size-2xl: 24px;
+  --font-size-3xl: 30px;
+  --font-size-4xl: 36px;
+  --font-size-5xl: 48px;
+  --font-size-6xl: 60px;
+  
+  /* 字重 */
+  --font-weight-normal: 400;
+  --font-weight-medium: 500;
+  --font-weight-semibold: 600;
+  --font-weight-bold: 700;
+  
+  /* 行高 */
+  --line-height-tight: 1.25;
+  --line-height-normal: 1.5;
+  --line-height-relaxed: 1.75;
+  
+  /* 字间距 */
+  --letter-spacing-tight: -0.025em;
+  --letter-spacing-normal: 0;
+  --letter-spacing-wide: 0.025em;
+  
+  /* ============================================
+     过渡动画
+     ============================================ */
+  --transition-fast: 150ms cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-base: 200ms cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-slow: 300ms cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-slower: 500ms cubic-bezier(0.4, 0, 0.2, 1);
+  
+  /* ============================================
+     Z-index层级系统
+     ============================================ */
+  --z-index-dropdown: 1000;
+  --z-index-sticky: 1020;
+  --z-index-fixed: 1030;
+  --z-index-modal-backdrop: 1040;
+  --z-index-modal: 1050;
+  --z-index-popover: 1060;
+  --z-index-tooltip: 1070;
+}
+
+/* ============================================
+   景区类型主题色
+   ============================================ */
+.type-nature {
+  --theme-color: #10B981;
+  --theme-gradient: linear-gradient(135deg, #10B981 0%, #34D399 100%);
+}
+
+.type-history {
+  --theme-color: #D97706;
+  --theme-gradient: linear-gradient(135deg, #D97706 0%, #F59E0B 100%);
+}
+
+.type-park {
+  --theme-color: #8B5CF6;
+  --theme-gradient: linear-gradient(135deg, #8B5CF6 0%, #A78BFA 100%);
+}
+
+.type-other {
+  --theme-color: #0EA5E9;
+  --theme-gradient: linear-gradient(135deg, #0EA5E9 0%, #38BDF8 100%);
+}
+
+/* ============================================
+   全局样式重写
+   ============================================ */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body, #app {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  font-family: var(--font-family-body);
+  font-size: var(--font-size-base);
+  line-height: var(--line-height-normal);
+  color: var(--color-text-primary);
+  background-color: var(--color-bg-page);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* ============================================
+   滚动条美化
+   ============================================ */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--color-gray-100);
+  border-radius: var(--radius-full);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-gray-300);
+  border-radius: var(--radius-full);
+  transition: background var(--transition-fast);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-gray-400);
+}
+
+/* ============================================
+   选择文本样式
+   ============================================ */
+::selection {
+  background: var(--color-brand-primary);
+  color: white;
+}
+
+::-moz-selection {
+  background: var(--color-brand-primary);
+  color: white;
+}
+
+/* ============================================
+   焦点可见性
+   ============================================ */
+:focus-visible {
+  outline: 2px solid var(--color-brand-primary);
+  outline-offset: 2px;
+}
+
+/* ============================================
+   可访问性
+   ============================================ */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+@media (prefers-contrast: high) {
+  :root {
+    --color-text-primary: #000000;
+    --color-text-secondary: #333333;
+    --color-gray-100: #E0E0E0;
+    --color-gray-200: #C0C0C0;
+  }
+}
+
+/* ============================================
+   打印样式
+   ============================================ */
+@media print {
+  body {
+    background: white;
+  }
+  
+  .no-print {
+    display: none !important;
+  }
+}

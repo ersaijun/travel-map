@@ -1,0 +1,9 @@
+/* 导入设计令牌系统 */
+@import './design-tokens.css';
+
+/* 全局样式增强 */
+#app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}

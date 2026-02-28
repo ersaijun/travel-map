@@ -1,0 +1,758 @@
+/* ============================================
+   通用组件样式增强
+   ============================================ */
+
+/* ============================================
+   卡片组件
+   ============================================ */
+.card-enhanced {
+  background: var(--color-bg-container);
+  border-radius: var(--radius-xl);
+  box-shadow: var(--shadow-sm);
+  border: 1px solid var(--color-gray-100);
+  transition: all var(--transition-base);
+  overflow: hidden;
+}
+
+.card-enhanced:hover {
+  box-shadow: var(--shadow-lg);
+  transform: translateY(-2px);
+}
+
+.card-elevated {
+  background: var(--color-bg-elevated);
+  border-radius: var(--radius-2xl);
+  box-shadow: var(--shadow-lg);
+  border: 1px solid rgba(255, 255, 255, 0.8);
+}
+
+.card-gradient {
+  background: var(--gradient-brand-subtle);
+  color: white;
+  position: relative;
+  overflow: hidden;
+}
+
+.card-gradient::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.2) 0%, transparent 50%);
+  pointer-events: none;
+}
+
+/* ============================================
+   按钮增强
+   ============================================ */
+.btn-gradient {
+  background: var(--gradient-brand);
+  border: none;
+  color: white;
+  box-shadow: var(--shadow-brand);
+  transition: all var(--transition-base);
+  border-radius: var(--radius-lg);
+}
+
+.btn-gradient:hover {
+  background: var(--gradient-brand-subtle);
+  box-shadow: var(--shadow-brand-hover);
+  transform: translateY(-2px);
+}
+
+.btn-gradient:active {
+  transform: translateY(0);
+}
+
+.btn-nature {
+  background: var(--gradient-nature);
+  box-shadow: 0 4px 14px 0 rgba(16, 185, 129, 0.39);
+}
+
+.btn-nature:hover {
+  box-shadow: 0 6px 20px 0 rgba(16, 185, 129, 0.23);
+}
+
+.btn-warm {
+  background: var(--gradient-warm);
+  box-shadow: 0 4px 14px 0 rgba(245, 158, 11, 0.39);
+}
+
+.btn-warm:hover {
+  box-shadow: 0 6px 20px 0 rgba(245, 158, 11, 0.23);
+}
+
+/* ============================================
+   标签组件
+   ============================================ */
+.tag-gradient {
+  background: var(--theme-gradient, var(--gradient-brand));
+  color: white;
+  border: none;
+  padding: var(--spacing-1) var(--spacing-3);
+  border-radius: var(--radius-full);
+  font-size: var(--font-size-sm);
+  font-weight: var(--font-weight-medium);
+  display: inline-flex;
+  align-items: center;
+  gap: var(--spacing-1);
+}
+
+.tag-nature {
+  --theme-gradient: var(--gradient-nature);
+}
+
+.tag-history {
+  --theme-gradient: var(--type-history, var(--gradient-warm));
+}
+
+.tag-park {
+  --theme-gradient: var(--type-park, linear-gradient(135deg, #8B5CF6 0%, #A78BFA 100%));
+}
+
+/* ============================================
+   徽章组件
+   ============================================ */
+.badge-count {
+  position: absolute;
+  top: -4px;
+  right: -4px;
+  min-width: 18px;
+  height: 18px;
+  padding: 0 6px;
+  background: var(--color-error);
+  color: white;
+  font-size: 11px;
+  font-weight: var(--font-weight-medium);
+  border-radius: var(--radius-full);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: var(--shadow-sm);
+}
+
+/* ============================================
+   分割线增强
+   ============================================ */
+.divider-gradient {
+  height: 1px;
+  background: linear-gradient(90deg, 
+    transparent 0%, 
+    var(--color-gray-200) 20%, 
+    var(--color-gray-300) 50%, 
+    var(--color-gray-200) 80%, 
+    transparent 100%
+  );
+}
+
+.divider-vertical-gradient {
+  width: 1px;
+  height: 100%;
+  background: linear-gradient(180deg, 
+    transparent 0%, 
+    var(--color-gray-200) 20%, 
+    var(--color-gray-300) 50%, 
+    var(--color-gray-200) 80%, 
+    transparent 100%
+  );
+}
+
+/* ============================================
+   空状态组件
+   ============================================ */
+.empty-state {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--spacing-16) var(--spacing-6);
+  text-align: center;
+}
+
+.empty-icon {
+  font-size: 64px;
+  margin-bottom: var(--spacing-6);
+  opacity: 0.6;
+  animation: float 3s ease-in-out infinite;
+}
+
+.empty-title {
+  font-size: var(--font-size-xl);
+  font-weight: var(--font-weight-semibold);
+  color: var(--color-text-primary);
+  margin-bottom: var(--spacing-3);
+}
+
+.empty-description {
+  font-size: var(--font-size-sm);
+  color: var(--color-text-secondary);
+  line-height: var(--line-height-relaxed);
+  max-width: 400px;
+}
+
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-10px); }
+}
+
+/* ============================================
+   加载状态
+   ============================================ */
+.skeleton {
+  background: linear-gradient(90deg, 
+    var(--color-gray-100) 25%, 
+    var(--color-gray-200) 50%, 
+    var(--color-gray-100) 75%
+  );
+  background-size: 200% 100%;
+  animation: skeleton-loading 1.5s ease-in-out infinite;
+  border-radius: var(--radius-md);
+}
+
+@keyframes skeleton-loading {
+  0% { background-position: 200% 0; }
+  100% { background-position: -200% 0; }
+}
+
+/* ============================================
+   渐变文字
+   ============================================ */
+.text-gradient {
+  background: var(--gradient-brand);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.text-gradient-nature {
+  background: var(--gradient-nature);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.text-gradient-warm {
+  background: var(--gradient-warm);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* ============================================
+   玻璃态效果
+   ============================================ */
+.glass {
+  background: rgba(255, 255, 255, 0.8);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.5);
+}
+
+.glass-dark {
+  background: rgba(17, 24, 39, 0.8);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+/* ============================================
+   渐变背景
+   ============================================ */
+.bg-gradient-brand {
+  background: var(--gradient-brand);
+}
+
+.bg-gradient-nature {
+  background: var(--gradient-nature);
+}
+
+.bg-gradient-warm {
+  background: var(--gradient-warm);
+}
+
+.bg-mesh {
+  background: 
+    radial-gradient(at 40% 20%, rgba(14, 165, 233, 0.15) 0px, transparent 50%),
+    radial-gradient(at 80% 0%, rgba(16, 185, 129, 0.1) 0px, transparent 50%),
+    radial-gradient(at 0% 50%, rgba(245, 158, 11, 0.1) 0px, transparent 50%),
+    radial-gradient(at 80% 50%, rgba(99, 102, 241, 0.1) 0px, transparent 50%),
+    radial-gradient(at 0% 100%, rgba(14, 165, 233, 0.15) 0px, transparent 50%),
+    radial-gradient(at 80% 100%, rgba(16, 185, 129, 0.1) 0px, transparent 50%);
+}
+
+/* ============================================
+   动画工具类
+   ============================================ */
+.animate-fade-in {
+  animation: fadeIn 0.3s ease-out;
+}
+
+.animate-fade-in-up {
+  animation: fadeInUp 0.4s ease-out;
+}
+
+.animate-fade-in-down {
+  animation: fadeInDown 0.4s ease-out;
+}
+
+.animate-scale-in {
+  animation: scaleIn 0.3s ease-out;
+}
+
+.animate-slide-in-left {
+  animation: slideInLeft 0.3s ease-out;
+}
+
+.animate-slide-in-right {
+  animation: slideInRight 0.3s ease-out;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeInDown {
+  from {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes scaleIn {
+  from {
+    opacity: 0;
+    transform: scale(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+@keyframes slideInLeft {
+  from {
+    opacity: 0;
+    transform: translateX(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes slideInRight {
+  from {
+    opacity: 0;
+    transform: translateX(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+/* ============================================
+   交互动画
+   ============================================ */
+.hover-lift {
+  transition: transform var(--transition-base), box-shadow var(--transition-base);
+}
+
+.hover-lift:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-xl);
+}
+
+.hover-scale {
+  transition: transform var(--transition-base);
+}
+
+.hover-scale:hover {
+  transform: scale(1.02);
+}
+
+.hover-brightness {
+  transition: filter var(--transition-base);
+}
+
+.hover-brightness:hover {
+  filter: brightness(1.05);
+}
+
+/* ============================================
+   响应式工具类
+   ============================================ */
+@media (max-width: 768px) {
+  .empty-icon {
+    font-size: 48px;
+  }
+  
+  .empty-title {
+    font-size: var(--font-size-lg);
+  }
+}
+
+/* ============================================
+   列表项动画延迟
+   ============================================ */
+.list-item:nth-child(1) { animation-delay: 0ms; }
+.list-item:nth-child(2) { animation-delay: 50ms; }
+.list-item:nth-child(3) { animation-delay: 100ms; }
+.list-item:nth-child(4) { animation-delay: 150ms; }
+.list-item:nth-child(5) { animation-delay: 200ms; }
+.list-item:nth-child(6) { animation-delay: 250ms; }
+.list-item:nth-child(7) { animation-delay: 300ms; }
+.list-item:nth-child(8) { animation-delay: 350ms; }
+.list-item:nth-child(9) { animation-delay: 400ms; }
+.list-item:nth-child(10) { animation-delay: 450ms; }
+
+/* ============================================
+   按钮点击波纹效果
+   ============================================ */
+.btn-ripple {
+  position: relative;
+  overflow: hidden;
+}
+
+.btn-ripple::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 0;
+  height: 0;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.4);
+  transform: translate(-50%, -50%);
+  transition: width 0.6s, height 0.6s, opacity 0.6s;
+  opacity: 0;
+  pointer-events: none;
+}
+
+.btn-ripple:active::after {
+  width: 200px;
+  height: 200px;
+  opacity: 1;
+  transition: 0s;
+}
+
+/* ============================================
+   卡片悬停3D效果
+   ============================================ */
+.card-3d {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  transform-style: preserve-3d;
+}
+
+.card-3d:hover {
+  transform: translateY(-8px) rotateX(2deg) rotateY(2deg);
+  box-shadow: var(--shadow-2xl);
+}
+
+/* ============================================
+   加载骨架屏动画
+   ============================================ */
+.skeleton-shimmer {
+  background: linear-gradient(
+    90deg,
+    var(--color-gray-100) 0%,
+    var(--color-gray-200) 50%,
+    var(--color-gray-100) 100%
+  );
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite;
+}
+
+@keyframes shimmer {
+  0% { background-position: 200% 0; }
+  100% { background-position: -200% 0; }
+}
+
+/* ============================================
+   脉冲动画
+   ============================================ */
+.pulse {
+  animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
+
+@keyframes pulse {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.5;
+  }
+}
+
+/* ============================================
+   弹跳动画
+   ============================================ */
+.bounce {
+  animation: bounce 1s infinite;
+}
+
+@keyframes bounce {
+  0%, 100% {
+    transform: translateY(-5%);
+    animation-timing-function: cubic-bezier(0.8, 0, 1, 1);
+  }
+  50% {
+    transform: translateY(0);
+    animation-timing-function: cubic-bezier(0, 0, 0.2, 1);
+  }
+}
+
+/* ============================================
+   旋转动画
+   ============================================ */
+.spin {
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* ============================================
+   摇晃动画
+   ============================================ */
+.shake {
+  animation: shake 0.5s cubic-bezier(0.36, 0.07, 0.19, 0.97) both;
+}
+
+@keyframes shake {
+  10%, 90% {
+    transform: translate3d(-1px, 0, 0);
+  }
+  20%, 80% {
+    transform: translate3d(2px, 0, 0);
+  }
+  30%, 50%, 70% {
+    transform: translate3d(-4px, 0, 0);
+  }
+  40%, 60% {
+    transform: translate3d(4px, 0, 0);
+  }
+}
+
+/* ============================================
+   成功/失败状态动画
+   ============================================ */
+.status-success {
+  animation: statusSuccess 0.5s ease-out;
+}
+
+@keyframes statusSuccess {
+  0% {
+    transform: scale(0.8);
+    opacity: 0;
+  }
+  50% {
+    transform: scale(1.1);
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+.status-error {
+  animation: statusError 0.5s ease-out;
+}
+
+@keyframes statusError {
+  0%, 100% {
+    transform: translateX(0);
+  }
+  10%, 30%, 50%, 70%, 90% {
+    transform: translateX(-5px);
+  }
+  20%, 40%, 60%, 80% {
+    transform: translateX(5px);
+  }
+}
+
+/* ============================================
+   进度条动画
+   ============================================ */
+.progress-bar {
+  position: relative;
+  overflow: hidden;
+}
+
+.progress-bar::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    rgba(255, 255, 255, 0.4),
+    transparent
+  );
+  transform: translateX(-100%);
+  animation: progressShimmer 1.5s infinite;
+}
+
+@keyframes progressShimmer {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(100%);
+  }
+}
+
+/* ============================================
+   输入框聚焦动画
+   ============================================ */
+.input-focus-animated {
+  position: relative;
+}
+
+.input-focus-animated::before {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  width: 0;
+  height: 2px;
+  background: var(--color-brand-primary);
+  transition: all var(--transition-base);
+  transform: translateX(-50%);
+}
+
+.input-focus-animated:focus::before {
+  width: 100%;
+}
+
+/* ============================================
+   标签切换动画
+   ============================================ */
+.tag-switch {
+  transition: all var(--transition-base);
+}
+
+.tag-switch-enter-active,
+.tag-switch-leave-active {
+  transition: all var(--transition-base);
+}
+
+.tag-switch-enter-from {
+  opacity: 0;
+  transform: scale(0.8);
+}
+
+.tag-switch-leave-to {
+  opacity: 0;
+  transform: scale(0.8);
+}
+
+/* ============================================
+   图片懒加载动画
+   ============================================ */
+.image-lazy {
+  opacity: 0;
+  transition: opacity 0.4s ease-out;
+}
+
+.image-lazy.loaded {
+  opacity: 1;
+}
+
+/* ============================================
+   数字滚动动画
+   ============================================ */
+.number-animate {
+  transition: all var(--transition-base);
+}
+
+/* ============================================
+   提示框动画
+   ============================================ */
+.tooltip-animate {
+  transition: all var(--transition-base);
+  opacity: 0;
+  transform: translateY(4px);
+  pointer-events: none;
+}
+
+.tooltip-animate.show {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* ============================================
+   下拉菜单动画
+   ============================================ */
+.dropdown-animate {
+  transform-origin: top center;
+  transition: all var(--transition-base);
+  opacity: 0;
+  transform: scaleY(0.9);
+}
+
+.dropdown-animate.show {
+  opacity: 1;
+  transform: scaleY(1);
+}
+
+/* ============================================
+   模态框动画
+   ============================================ */
+.modal-enter-active {
+  transition: opacity 0.3s ease-out;
+}
+
+.modal-leave-active {
+  transition: opacity 0.2s ease-in;
+}
+
+.modal-enter-from,
+.modal-leave-to {
+  opacity: 0;
+}
+
+.modal-content-enter-active {
+  transition: all 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+.modal-content-leave-active {
+  transition: all 0.2s ease-in;
+}
+
+.modal-content-enter-from {
+  opacity: 0;
+  transform: scale(0.9) translateY(-20px);
+}
+
+.modal-content-leave-to {
+  opacity: 0;
+  transform: scale(0.95);
+}

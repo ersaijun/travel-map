@@ -1,0 +1,398 @@
+[
+  {
+    "name": "圆明园遗址公园景区",
+    "province": "北京市",
+    "city": "北京市",
+    "category": "历史古迹"
+  },
+  {
+    "name": "保定市清西陵景区",
+    "province": "河北省",
+    "city": "保定市",
+    "category": "历史古迹"
+  },
+  {
+    "name": "承德市金山岭长城景区",
+    "province": "河北省",
+    "city": "承德市",
+    "category": "历史古迹"
+  },
+  {
+    "name": "晋中市平遥古城景区",
+    "province": "山西省",
+    "city": "晋中市",
+    "category": "历史古迹"
+  },
+  {
+    "name": "忻州市雁门关景区",
+    "province": "山西省",
+    "city": "忻州市",
+    "category": "历史古迹"
+  },
+  {
+    "name": "临汾市云丘山景区",
+    "province": "山西省",
+    "city": "临汾市",
+    "category": "自然风光"
+  },
+  {
+    "name": "黄河壶口瀑布旅游区",
+    "province": "山西省",
+    "city": "临汾市",
+    "category": "自然风光"
+  },
+  {
+    "name": "晋中市乔家大院景区",
+    "province": "山西省",
+    "city": "晋中市",
+    "category": "历史古迹"
+  },
+  {
+    "name": "赤峰市阿斯哈图石林景区",
+    "province": "内蒙古自治区",
+    "city": "赤峰市",
+    "category": "自然风光"
+  },
+  {
+    "name": "呼伦贝尔市呼伦贝尔大草原·莫尔格勒河景区",
+    "province": "内蒙古自治区",
+    "city": "呼伦贝尔市",
+    "category": "自然风光"
+  },
+  {
+    "name": "呼和浩特市老牛湾黄河大峡谷旅游区",
+    "province": "内蒙古自治区",
+    "city": "呼和浩特市",
+    "category": "自然风光"
+  },
+  {
+    "name": "本溪市五女山景区",
+    "province": "辽宁省",
+    "city": "本溪市",
+    "category": "自然风光"
+  },
+  {
+    "name": "长春市世界雕塑公园景区",
+    "province": "吉林省",
+    "city": "长春市",
+    "category": "主题公园"
+  },
+  {
+    "name": "松原市前郭查干湖景区",
+    "province": "吉林省",
+    "city": "松原市",
+    "category": "自然风光"
+  },
+  {
+    "name": "白城市大安嫩江湾旅游区",
+    "province": "吉林省",
+    "city": "白城市",
+    "category": "自然风光"
+  },
+  {
+    "name": "齐齐哈尔市扎龙生态旅游区",
+    "province": "黑龙江省",
+    "city": "齐齐哈尔市",
+    "category": "自然风光"
+  },
+  {
+    "name": "常州市春秋淹城旅游区",
+    "province": "江苏省",
+    "city": "常州市",
+    "category": "历史古迹"
+  },
+  {
+    "name": "宿迁市洪泽湖湿地景区",
+    "province": "江苏省",
+    "city": "宿迁市",
+    "category": "自然风光"
+  },
+  {
+    "name": "连云港市连岛景区",
+    "province": "江苏省",
+    "city": "连云港市",
+    "category": "自然风光"
+  },
+  {
+    "name": "衢州市根宫佛国文化旅游区",
+    "province": "浙江省",
+    "city": "衢州市",
+    "category": "历史古迹"
+  },
+  {
+    "name": "嘉兴市西塘古镇旅游景区",
+    "province": "浙江省",
+    "city": "嘉兴市",
+    "category": "历史古迹"
+  },
+  {
+    "name": "金华市双龙风景旅游区",
+    "province": "浙江省",
+    "city": "金华市",
+    "category": "自然风光"
+  },
+  {
+    "name": "黄山市古徽州文化旅游区",
+    "province": "安徽省",
+    "city": "黄山市",
+    "category": "历史古迹"
+  },
+  {
+    "name": "六安市万佛湖风景区",
+    "province": "安徽省",
+    "city": "六安市",
+    "category": "自然风光"
+  },
+  {
+    "name": "宁德市太姥山旅游区",
+    "province": "福建省",
+    "city": "宁德市",
+    "category": "自然风光"
+  },
+  {
+    "name": "厦门市厦门园林植物园景区",
+    "province": "福建省",
+    "city": "厦门市",
+    "category": "自然风光"
+  },
+  {
+    "name": "龙岩市冠豸山景区",
+    "province": "福建省",
+    "city": "龙岩市",
+    "category": "自然风光"
+  },
+  {
+    "name": "赣州市三百山景区",
+    "province": "江西省",
+    "city": "赣州市",
+    "category": "自然风光"
+  },
+  {
+    "name": "上饶市篁岭景区",
+    "province": "江西省",
+    "city": "上饶市",
+    "category": "历史古迹"
+  },
+  {
+    "name": "临沂市萤火虫水洞·地下大峡谷旅游区",
+    "province": "山东省",
+    "city": "临沂市",
+    "category": "自然风光"
+  },
+  {
+    "name": "青岛市奥帆海洋文化旅游区",
+    "province": "山东省",
+    "city": "青岛市",
+    "category": "主题公园"
+  },
+  {
+    "name": "洛阳市龙潭大峡谷景区",
+    "province": "河南省",
+    "city": "洛阳市",
+    "category": "自然风光"
+  },
+  {
+    "name": "安阳市红旗渠－太行大峡谷旅游景区",
+    "province": "河南省",
+    "city": "安阳市",
+    "category": "自然风光"
+  },
+  {
+    "name": "周口市太昊伏羲陵文化旅游区",
+    "province": "河南省",
+    "city": "周口市",
+    "category": "历史古迹"
+  },
+  {
+    "name": "新乡市宝泉旅游区",
+    "province": "河南省",
+    "city": "新乡市",
+    "category": "自然风光"
+  },
+  {
+    "name": "恩施州神农溪纤夫文化旅游区",
+    "province": "湖北省",
+    "city": "恩施州",
+    "category": "自然风光"
+  },
+  {
+    "name": "武汉市木兰文化生态旅游区",
+    "province": "湖北省",
+    "city": "武汉市",
+    "category": "自然风光"
+  },
+  {
+    "name": "恩施州腾龙洞景区",
+    "province": "湖北省",
+    "city": "恩施州",
+    "category": "自然风光"
+  },
+  {
+    "name": "宜昌市三峡大瀑布景区",
+    "province": "湖北省",
+    "city": "宜昌市",
+    "category": "自然风光"
+  },
+  {
+    "name": "黄冈市麻城龟峰山景区",
+    "province": "湖北省",
+    "city": "黄冈市",
+    "category": "自然风光"
+  },
+  {
+    "name": "湘西州吉首市矮寨·十八洞·德夯大峡谷景区",
+    "province": "湖南省",
+    "city": "湘西州",
+    "category": "自然风光"
+  },
+  {
+    "name": "河源市万绿湖风景区",
+    "province": "广东省",
+    "city": "河源市",
+    "category": "自然风光"
+  },
+  {
+    "name": "崇左市德天跨国瀑布景区",
+    "province": "广西壮族自治区",
+    "city": "崇左市",
+    "category": "自然风光"
+  },
+  {
+    "name": "崇左市花山岩画景区",
+    "province": "广西壮族自治区",
+    "city": "崇左市",
+    "category": "历史古迹"
+  },
+  {
+    "name": "三亚市天涯海角游览区",
+    "province": "海南省",
+    "city": "三亚市",
+    "category": "自然风光"
+  },
+  {
+    "name": "白帝城·瞿塘峡景区",
+    "province": "重庆市",
+    "city": "重庆市",
+    "category": "历史古迹"
+  },
+  {
+    "name": "成都市安仁古镇景区",
+    "province": "四川省",
+    "city": "成都市",
+    "category": "历史古迹"
+  },
+  {
+    "name": "成都市天台山景区",
+    "province": "四川省",
+    "city": "成都市",
+    "category": "自然风光"
+  },
+  {
+    "name": "毕节市织金洞景区",
+    "province": "贵州省",
+    "city": "毕节市",
+    "category": "自然风光"
+  },
+  {
+    "name": "黔西南州万峰林景区",
+    "province": "贵州省",
+    "city": "黔西南州",
+    "category": "自然风光"
+  },
+  {
+    "name": "文山州普者黑旅游景区",
+    "province": "云南省",
+    "city": "文山州",
+    "category": "自然风光"
+  },
+  {
+    "name": "林芝市雅鲁藏布大峡谷景区",
+    "province": "西藏自治区",
+    "city": "林芝市",
+    "category": "自然风光"
+  },
+  {
+    "name": "西安市华清宫景区",
+    "province": "陕西省",
+    "city": "西安市",
+    "category": "历史古迹"
+  },
+  {
+    "name": "西安市大明宫旅游景区",
+    "province": "陕西省",
+    "city": "西安市",
+    "category": "历史古迹"
+  },
+  {
+    "name": "延安市延川黄河乾坤湾景区",
+    "province": "陕西省",
+    "city": "延安市",
+    "category": "自然风光"
+  },
+  {
+    "name": "咸阳市乾陵景区",
+    "province": "陕西省",
+    "city": "咸阳市",
+    "category": "历史古迹"
+  },
+  {
+    "name": "陇南市官鹅沟景区",
+    "province": "甘肃省",
+    "city": "陇南市",
+    "category": "自然风光"
+  },
+  {
+    "name": "甘南州冶力关旅游区",
+    "province": "甘肃省",
+    "city": "甘南州",
+    "category": "自然风光"
+  },
+  {
+    "name": "固原市六盘山红军长征旅游区",
+    "province": "宁夏回族自治区",
+    "city": "固原市",
+    "category": "历史古迹"
+  },
+  {
+    "name": "喀什地区喀什古城景区",
+    "province": "新疆维吾尔自治区",
+    "city": "喀什地区",
+    "category": "历史古迹"
+  },
+  {
+    "name": "喀什地区帕米尔旅游区",
+    "province": "新疆维吾尔自治区",
+    "city": "喀什地区",
+    "category": "自然风光"
+  },
+  {
+    "name": "博尔塔拉蒙古自治州赛里木湖景区",
+    "province": "新疆维吾尔自治区",
+    "city": "博尔塔拉州",
+    "category": "自然风光"
+  },
+  {
+    "name": "昌吉回族自治州江布拉克景区",
+    "province": "新疆维吾尔自治区",
+    "city": "昌吉州",
+    "category": "自然风光"
+  },
+  {
+    "name": "阿克苏地区天山托木尔景区",
+    "province": "新疆维吾尔自治区",
+    "city": "阿克苏地区",
+    "category": "自然风光"
+  },
+  {
+    "name": "兵团十师185团白沙湖景区",
+    "province": "新疆维吾尔自治区",
+    "city": "阿勒泰地区",
+    "category": "自然风光"
+  },
+  {
+    "name": "兵团阿拉尔市塔克拉玛干·三五九旅文化旅游区",
+    "province": "新疆维吾尔自治区",
+    "city": "阿拉尔市",
+    "category": "历史古迹"
+  }
+]
