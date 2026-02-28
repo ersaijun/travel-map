@@ -1,5 +1,8 @@
 <template>
-  <div class="user-center-page">
+  <div v-if="loading" class="loading-container">
+    <a-spin size="large" />
+  </div>
+  <div v-else class="user-center-page">
     <a-row :gutter="24">
       <a-col :span="8">
         <a-card title="个人信息" class="user-card">
@@ -55,6 +58,12 @@ const router = useRouter()
 const userStore = useUserStore()
 const showShareModal = ref(false)
 const shareImage = ref('')
+const loading = ref(false)
+
+// 页面加载时获取用户信息
+onMounted(async () => {
+  await userStore.fetchProfile()
+})
 
 // 打开分享模态框
 function openShareModal() {
@@ -66,16 +75,6 @@ function handleShare(channel: 'wechat' | 'qq' | 'link') {
   showShareModal.value = false
   message.success('分享成功！')
 }
-
-// 未登录时跳转到首页
-onMounted(() => {
-  if (!userStore.isLoggedIn) {
-    message.warning('请先登录')
-    setTimeout(() => {
-      router.push('/')
-    }, 1500)
-  }
-})
 </script>
 
 <style scoped>
